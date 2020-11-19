@@ -16,10 +16,15 @@ h2{
     font-family:"Impact";
     text-align: center;
     background-color:darkgreen;  
+
     
 }
-body{background-image: url(../images/white_00055.jpg);}
+body{background-image: url(../images/haikei2.jpg);}
 
-<table>{
-    color:aqua
+table{
+    background-color:aqua
 }
+div{
+    background-image: url(../images/haikei1.jpg)
+}
+
