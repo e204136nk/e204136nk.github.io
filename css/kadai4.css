@@ -1,0 +1,27 @@
+h1{
+    color: white;
+    font-size: 50px;
+    font-weight: :bold;
+    font-family: "Impact";
+    text-align: center;
+    background-color: black;
+}
+
+h2{
+    color:darkgray;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: "Impact";
+    text-align: center;
+    background-color:beige;
+}
+
+h3{
+    color: azure;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: "Impact";
+    text-align: center;
+    background-color: antiquewhite;
+}
+body{background-image: url(../images/haikei1.jpg);}
